@@ -1,4 +1,3 @@
 chat/
 
-*.pyc
 __pycache__/
